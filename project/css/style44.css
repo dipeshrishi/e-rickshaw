@@ -1,0 +1,35 @@
+.namewala
+{
+  position: absolute;
+  top:120px;
+  left:125px;
+  width: 300px;
+}
+.fromwala
+{
+  position: absolute;
+  top:200px;
+  left:125px;
+  width: 250px;
+}
+.towala
+{
+  position: absolute;
+  top:200px;
+  left:500px;
+  width: 250px;
+}
+.numberwala
+{
+  position: absolute;
+  top:280px;
+  left:125px;
+  width: 300px;
+
+}
+.buttonwala
+{
+  position: absolute;
+  top:400px;
+  left:140px;
+}
